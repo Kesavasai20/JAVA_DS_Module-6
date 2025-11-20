@@ -16,7 +16,7 @@ To write a Java program to Count how many times a number appears in an array rec
 5.Return 1 + recursive call if it matches, else return just the recursive call.
 
 ## Program:
-```
+```PY
 /*
 Program Count how many times a number appears in an array recursively.
 Developed by: K KESAVA SAI
